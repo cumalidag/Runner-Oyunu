@@ -1,0 +1,3 @@
+rep "Runner Oyunu@TurnBasedGame@cloud"
+  path "/"
+    smartbranch "/main"
